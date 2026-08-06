@@ -15,7 +15,7 @@ A simple command-line Hangman game written in Python that loads words from a tex
    ```
 2. Run the script:
 ```Bash
-   python main.py
+   python hangman.py
 ```
 
 3. When prompted for a file path, enter words.txt (or the path to your own text file containing space-separated words).
